@@ -44,6 +44,13 @@
    ```bash
    git clone https://github.com/pkonieczny007/XOLANA_airdrop_faucet_automation.git
    cd XOLANA_airdrop_faucet_automation
-Zainstaluj wymagane biblioteki:
+2. **Zainstaluj wymagane biblioteki:
 ```bash
 pip install -r requirements.txt
+```
+3. **Uruchom skrypt:
+```bash
+python airdrop_faucet_automation.py
+```
+
+
