@@ -42,5 +42,8 @@
 
 1. **Sklonuj repozytorium**:
    ```bash
-   git clone https://github.com/TwojUsername/XOLANA_airdrop_faucet_automation.git
+   git clone https://github.com/pkonieczny007/XOLANA_airdrop_faucet_automation.git
    cd XOLANA_airdrop_faucet_automation
+Zainstaluj wymagane biblioteki:
+```bash
+pip install -r requirements.txt
