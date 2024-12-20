@@ -1,6 +1,5 @@
 # XOLANA Airdrop Faucet Automation
 
-# XOLANA Airdrop Faucet Automation
 
 ## Project Description
 
